@@ -49,3 +49,12 @@ div {
 .done {
     background-color: green;
 }
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.task-status {
+    font-weight: 700;
+    text-transform: capitalize;
+}
